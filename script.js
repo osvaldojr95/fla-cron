@@ -1,4 +1,4 @@
-const GAME_TIME = Date.parse("2023-10-18T20:00:00")
+const GAME_TIME = Date.parse("2023-10-19T22:00:00")
 const timerElement = document.querySelector('.timer');
 
 const start = setInterval(()=>{
